@@ -2,7 +2,9 @@
 date = '2025-02-27T09:05:42+08:00'
 draft = false
 title = '我的第一篇测试文章'
+description= "测试第一篇文章的简介，介绍golang的冒泡排序"
 +++
+<!--more-->
 
 # 测试使用
 
