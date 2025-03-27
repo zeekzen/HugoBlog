@@ -6,7 +6,7 @@ languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
-title = "个人变成笔记"
+title = "个人编程笔记"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "DoIt"
@@ -87,4 +87,7 @@ useExtendedSearch = false
 ignoreFieldNorm = false
 
 
-
+[params.footer]
+hugo=true
+since=2020
+icp="鲁ICP备20016571号"
